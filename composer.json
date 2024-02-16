@@ -1,0 +1,48 @@
+{
+    "name": "fignon/terminal",
+    "description": "Terminal allow to simply log and display beautiful messages in the terminal",
+    "type": "library",
+    "version": "0.0.1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fignon\\Extra\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "authors": [
+        {
+            "name": "Dah-kenangnon",
+            "email": "dah-kenangnon@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/FignonPhp/terminal",
+    "support": {
+        "issues": "https://github.com/FignonPhp/terminal/issues",
+        "source": "https://github.com/FignonPhp/terminal",
+        "docs": "https://github.com/FignonPhp/terminal/README.md"
+    },
+    "keywords": [
+        "terminal",
+        "php",
+        "tunnel",
+        "middleware",
+        "chain",
+        "runner",
+        "http",
+        "request",
+        "response",
+        "website",
+        "rest",
+        "api",
+        "restful",
+        "rest-api",
+        "php-framework",
+        "php-middleware"
+    ],
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
